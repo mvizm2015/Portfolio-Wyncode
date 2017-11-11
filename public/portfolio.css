@@ -1,0 +1,40 @@
+body {
+  background-image: url("background.png");
+}
+
+p {
+  font-family: "Courier New", Times, serif;
+}
+
+/*https://css-tricks.com/image-under-text/*/
+
+img {
+  border-radius: 8px;
+}
+
+h1 {
+  font-family: "Courier New", Times, serif;
+  color: white;
+  background: url(golden.png);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 80px;
+  text-align: center;
+}
+
+#portfolio {
+  width: 80%;
+  border: 37px solid white;
+  padding: 25px;
+  margin: 25px;
+}
+
+
+#contact-me {
+  background-color: white;
+  width: 60%
+}
+
+#name {
+  width: 100%;
+}
