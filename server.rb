@@ -1,5 +1,5 @@
-require 'heroku'
+require 'sinatra'
 
 get '/' do
-  File.read(File.join('public', 'hello.txt'))
+  File.read(File.join('public', 'portfolio.html'))
 end
