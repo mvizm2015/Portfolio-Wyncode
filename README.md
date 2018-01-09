@@ -2,4 +2,4 @@
 
 created a portoflio using CSS and HTML. 
 
-[Heroku site:](https://mariavizcaino.herokuapp.com/ "Portfolio")
+[Heroku link to Portfolio](https://mariavizcaino.herokuapp.com/ "Portfolio")
